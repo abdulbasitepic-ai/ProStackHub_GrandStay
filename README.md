@@ -21,3 +21,11 @@
 - Serialization
 - File Handling
 - IntelliJ IDEA
+
+## Architecture
+
+- Main.java - Handles the console menu and user input
+- Hotel.java - Manages rooms, guests, and reservations
+- Room.java - Stores room details and availability
+- Guest.java - Stores guest information
+- Reservation.java - Handles room booking, guest details, and check-in/check-out dates
